@@ -6,11 +6,11 @@ on:
 
 jobs:
   demo:
-    runs on: ubuntu-latest
+    runs-on: ubuntu-latest
 
     steps: 
       -name: Greetings
-      run: echo "This is my first github actions file"
+        run: echo "This is my first github actions file"
     
     
 
