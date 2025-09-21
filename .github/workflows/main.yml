@@ -9,7 +9,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps: 
-      -name: Greetings
+      - name: Greetings
         run: echo "This is my first github actions file"
     
     
