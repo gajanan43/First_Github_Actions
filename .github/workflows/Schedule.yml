@@ -1,0 +1,14 @@
+name: Schedule
+
+on:
+  schedule: 
+    - cron: "0 0 * * *"
+
+jobs:
+  run-script:
+    runs-on: ubuntu
+
+    steps: 
+      - name: Print Message
+        run: echo "Schedule workflows Executed"
+  
