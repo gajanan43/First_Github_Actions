@@ -12,10 +12,10 @@ it follows 4 key concepts: **Event → Job → Step → Runner**.
 ---
 
 ## Four Components:
-1)Event->
-2)Job
-3)Step
-4)Runner
+ 1) Event
+ 2) Job
+ 3) Step
+ 4) Runner
 
 
 ## 1) **Event** (Trigger 🔔)
