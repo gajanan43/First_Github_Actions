@@ -1,16 +1,16 @@
-name: Gajanan
+# name: Gajanan
 
-on:
-  push:
-    branches: [main]
+# on:
+#   push:
+#     branches: [main]
 
-jobs:
-  demo:
-    runs-on: ubuntu-latest
+# jobs:
+#   demo:
+#     runs-on: ubuntu-latest
 
-    steps: 
-      - name: Greetings
-        run: echo "This is my first github actions file"
+#     steps: 
+#       - name: Greetings
+#         run: echo "This is my first github actions file"
     
     
 
